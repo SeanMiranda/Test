@@ -1,1 +1,1 @@
-now assist in ai search
+now assist in AI Search
